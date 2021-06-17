@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\ashut\source\repos\WindowsServiceApiCaller\bin\Debug\WindowsServiceApiCaller.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ashut\source\repos\WindowsServiceApiCaller\bin\Debug\WindowsServiceApiCaller.InstallLog
+   assemblypath = C:\Users\ashut\source\repos\WindowsServiceApiCaller\bin\Debug\WindowsServiceApiCaller.exe
+Installing service WindowsAPICallService...
+Service WindowsAPICallService has been successfully installed.
+Creating EventLog source WindowsAPICallService in log Application...
+Committing assembly 'C:\Users\ashut\source\repos\WindowsServiceApiCaller\bin\Debug\WindowsServiceApiCaller.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ashut\source\repos\WindowsServiceApiCaller\bin\Debug\WindowsServiceApiCaller.InstallLog
+   assemblypath = C:\Users\ashut\source\repos\WindowsServiceApiCaller\bin\Debug\WindowsServiceApiCaller.exe
